@@ -32,12 +32,12 @@ vue-cookie：对原生浏览器操作 Cookie 的 api 进行封装的库
 
 ## 项目运行截图
 
-![](.\Image\QQ截图20200918002349.png)
+![](./Image/QQ截图20200918002349.png)
 
-![](.\Image\QQ截图20200918002424.png)
+![](./Image/QQ截图20200918002424.png)
 
-![](.\Image\QQ截图20200918002450.png)
+![](./Image/QQ截图20200918002450.png)
 
-![](.\Image\QQ截图20200918003107.png)
+![](./Image/QQ截图20200918003107.png)
 
-![](.\Image\localhost_8080.png)
+![](./Image/localhost_8080.png)
